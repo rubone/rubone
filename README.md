@@ -1,8 +1,6 @@
-## 👋 Hi there, I'm [Rubén!](http://rubensaavedra.net/)
+# 👋 Hi there, I'm [Rubén!](http://rubensaavedra.net/)
 
-I'm currently a Software Engineer at [Ahinko](https://www.ahinko.com/)
-
-Working on some side projects as a freelance.
+I'm currently a Software Engineer at [Ahinko](https://www.ahinko.com/) and sometimes I work on some side projects as a freelancer.
 
 [![Linkedin Badge](https://img.shields.io/badge/-rubone-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rubone/)](https://www.linkedin.com/in/rubone/)
 [![Gmail Badge](https://img.shields.io/badge/-rubone02@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rubone02@gmail.com)](mailto:rubone02@gmail.com)
