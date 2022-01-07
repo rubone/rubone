@@ -13,9 +13,9 @@ I'm currently a Software Engineer at [Ahinko](https://www.ahinko.com/) and somet
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Kotlin](https://img.shields.io/badge/-kotlin-black?style=flat-square&logo=kotlin)
-![Dart](https://img.shields.io/badge/-Dart-1A68D3?style=flat-square&logo=dart)
-![Flutter](https://img.shields.io/badge/-Flutter-1A68D3?style=flat-square&logo=flutter)
+![Kotlin](https://img.shields.io/badge/-kotlin-orange?style=flat-square&logo=kotlin)
+![Dart](https://img.shields.io/badge/-Dart-blue?style=flat-square&logo=dart)
+![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 
 ## 🛠️ Tools
