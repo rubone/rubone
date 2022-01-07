@@ -8,7 +8,7 @@ I'm currently a Software Engineer at [Ahinko](https://www.ahinko.com/) and somet
 
 ## ⚡ Skills
 
-![CSharp](https://img.shields.io/badge/-CSharp-009639?style=flat-square&logo=csharp)
+![CSharp](https://img.shields.io/badge/-CSharp-4A154B?style=flat-square&logo=csharp)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
