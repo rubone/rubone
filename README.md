@@ -29,5 +29,3 @@ I'm currently a Software Engineer at [Nicasource](https://nicasource.com/) and f
 </p>
 
 ![Rubén Saavedra Prado's GitHub stats](https://github-readme-stats.vercel.app/api/?username=rubone&show_icons=true&theme=gotham)
-
-<img src="https://github-readme-stats.vercel.app/api?username=rubone&show_icons=true" />
