@@ -28,4 +28,4 @@ I'm currently a Software Engineer at [Nicasource](https://nicasource.com/) and f
     <img alt="Notion" src="https://img.shields.io/badge/-Notion-000?style=flat&logo=notion&logoColor=white" />
 </p>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=rubone&show_icons=true&theme=gotham" alt="rubone" /></p>
+![Rubén Saavedra Prado's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubone&show_icons=true&theme=gotham)
