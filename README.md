@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Rubén!](http://rubensaavedra.net/)
+# 👋 Hi there, I'm [Rubén Saavedra!](http://rubensaavedra.net/)
 
 I'm currently a Software Engineer at [Nicasource](https://nicasource.com/) and formerly at [Ahinko](https://www.ahinko.com/). I am working on some side projects as a freelancer and learning some new techs.
 
@@ -26,6 +26,8 @@ I'm currently a Software Engineer at [Nicasource](https://nicasource.com/) and f
     <img alt="Android Studio" src="https://img.shields.io/badge/-Android Studio-009639?style=flat&logo=android-studio&logoColor=white" /> 
     <img alt="Slack" src="https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=slack&logoColor=white" /> 
     <img alt="Notion" src="https://img.shields.io/badge/-Notion-000?style=flat&logo=notion&logoColor=white" />
+    <img alt="Visual Studio" src="https://img.shields.io/badge/-JetBrains Rider-E34F26?style=flat&logo=rider&logoColor=white"/>
 </p>
 
 ![Rubén Saavedra Prado's GitHub stats](https://github-readme-stats.vercel.app/api/?username=rubone&show_icons=true&theme=gotham)
+
