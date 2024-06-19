@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm [rubone!](http://rubensaavedra.net/)
 
-I'm currently a Software Engineer at [Nicasource](https://nicasource.com/) and formerly at [Ahinko](https://www.ahinko.com/). I'm working on some side projects as a freelancer and learning some new techs.
+I'm currently a Software Engineer at [Nicasource](https://nicasource.com/) and formerly at [Ahinko](https://www.ahinko.com/). I am working on some side projects as a freelancer and learning some new techs.
 
 [![Linkedin Badge](https://img.shields.io/badge/-rubone-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rubone/)](https://www.linkedin.com/in/rubone/)
 [![Gmail Badge](https://img.shields.io/badge/-rubone02@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rubone02@gmail.com)](mailto:rubone02@gmail.com)
