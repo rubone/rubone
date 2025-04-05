@@ -1,6 +1,9 @@
-# 👋 Hi there, I'm [rubone!](http://rubensaavedra.net/)
+# 👋 Hey there, I'm [rubone!](http://rubensaavedra.net/)
 
-I'm currently a Software Engineer at [Nicasource](https://nicasource.com/) and formerly at [Ahinko](https://www.ahinko.com/). I'm working on some side projects as a freelancer and learning some new techs.
+I’m currently a Software Engineer at [Nicasource](https://nicasource.com/) (used to be at [Ahinko](https://www.ahinko.com/)).
+Always building stuff on the side, freelancing here and there, and picking up new tech along the way.  I mostly work on backend stuff with C# and .NET, and build mobile projects too.
+
+Always learning and tinkering with new tech.
 
 [![Linkedin Badge](https://img.shields.io/badge/-rubone-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rubone/)](https://www.linkedin.com/in/rubone/)
 [![Gmail Badge](https://img.shields.io/badge/-rubone02@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rubone02@gmail.com)](mailto:rubone02@gmail.com)
@@ -30,4 +33,3 @@ I'm currently a Software Engineer at [Nicasource](https://nicasource.com/) and f
 </p>
 
 ![Rubén Saavedra Prado's GitHub stats](https://github-readme-stats.vercel.app/api/?username=rubone&show_icons=true&theme=gotham)
-
