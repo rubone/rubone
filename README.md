@@ -32,4 +32,4 @@ Always learning and tinkering with new tech.
     <img alt="Visual Studio" src="https://img.shields.io/badge/-JetBrains Rider-E34F26?style=flat&logo=rider&logoColor=white"/>
 </p>
 
-[![Rubén Saavedra Prado's GitHub stats](https://awesome-github-stats.azurewebsites.net/user-stats/rubone?cardType=github&theme=github-dark&preferLogin=true)](https://git.io/awesome-stats-card)
+[![Rubén Saavedra Prado's GitHub stats](https://awesome-github-stats.azurewebsites.net/user-stats/rubone?cardType=github&theme=dark&preferLogin=true)](https://git.io/awesome-stats-card)
