@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm [rubone!](http://rubensaavedra.net/)
 
 I’m currently a Software Engineer at [Nicasource](https://nicasource.com/) (used to be at [Ahinko](https://www.ahinko.com/)).
-Always building stuff on the side, freelancing here and there, and picking up new tech along the way.  I mostly work on backend stuff with C# and .NET, and build mobile projects too.
+Always building stuff on the side, freelancing here and there, and picking up new tech along the way. I mostly work on backend stuff with C# and .NET, and build mobile projects too.
 
 Always learning and tinkering with new tech.
 
@@ -32,4 +32,4 @@ Always learning and tinkering with new tech.
     <img alt="Visual Studio" src="https://img.shields.io/badge/-JetBrains Rider-E34F26?style=flat&logo=rider&logoColor=white"/>
 </p>
 
-[![Rubén Saavedra Prado's GitHub stats](https://awesome-github-stats.azurewebsites.net/user-stats/rubone?cardType=github&theme=dark&preferLogin=true)](https://git.io/awesome-stats-card)
+[![Rubén Saavedra Prado's GitHub stats](https://awesome-github-stats.azurewebsites.net/user-stats/rubone?cardType=github&theme=github-dark&preferLogin=true)](https://git.io/awesome-stats-card)
