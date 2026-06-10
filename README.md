@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm [rubone!](http://rubensaavedra.net/)
 
-I’m currently a Software Engineer at Taxfyle (previously at [Nicasource](https://nicasource.com/) and [Ahinko](https://ahinko.com/)). I enjoy building things on the side, freelancing when possible, and continuously learning new technologies. My main focus is backend development with C# and .NET, and I also work on mobile projects.
+I’m a Software Engineer. I enjoy building things on the side, freelancing when possible, and continuously learning new technologies. My main focus is backend development with C# and .NET, and I also build mobile apps — native Android with Java and Kotlin, as well as cross-platform with Flutter.
 
 Always learning and tinkering with new tech.
 
@@ -11,6 +11,7 @@ Always learning and tinkering with new tech.
 ## ⚡ Skills
 
 ![CSharp](https://img.shields.io/badge/-CSharp-4A154B?style=flat-square&logo=csharp)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
