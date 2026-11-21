@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm [rubone!](http://rubensaavedra.net/)
 
-I’m a Software Engineer focused on backend development with C# and .NET. I also build mobile apps: native Android with Kotlin and Java, and cross-platform with Flutter. Outside of work I freelance when I can and build side projects to try out new tech.
+Backend-focused Software Engineer specializing in C# and .NET. I also build mobile apps, both native Android (Kotlin, Java) and cross-platform with Flutter. Outside my day job, I take on freelance projects and build side projects to explore new technologies.
 
 [![LinkedIn Badge](https://img.shields.io/badge/-rubone-0A66C2?style=flat-square)](https://www.linkedin.com/in/rubone/)
 [![Gmail Badge](https://img.shields.io/badge/-rubone02@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:rubone02@gmail.com)
